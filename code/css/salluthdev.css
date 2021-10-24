@@ -8,3 +8,7 @@
 	font-family: 'Poppins', sans-serif;
 	transition: 0.5s;
 }
+.container
+{
+	padding: 20px;
+}
